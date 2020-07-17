@@ -1,0 +1,1 @@
+~/NAMD_2.13_MacOSX-x86_64-multicore/namd2 +p 100  complex-wb-min-eq-C5ROS.conf > C5-Ros-NH2-COMPLEX-RUN1.log
